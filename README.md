@@ -8,3 +8,5 @@ En este repositorio se va a desarrollar un proeso de ETL para usar pyspark de **
 Link de la data:
 ---
 [cars](https://raw.githubusercontent.com/sebastianVP/pyspark_EDA_ETL/main/cars_example.csv)
+
+[referencia](https://www.youtube.com/watch?v=6xdW43IIX5Q)
