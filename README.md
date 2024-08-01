@@ -6,3 +6,5 @@ PySpark es el API de Python para Apache Spark. Nos permite realizar procesamient
 En este repositorio se va a desarrollar un proeso de ETL para usar pyspark de **manera local** bajo el servicio de google Colab.
 
 Link de la data:
+---
+[cars](https://raw.githubusercontent.com/sebastianVP/pyspark_EDA_ETL/main/cars_example.csv)
